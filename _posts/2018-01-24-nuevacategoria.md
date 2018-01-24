@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practica 2, categoria"
-date:   2018-01-24 14:15:18 +0000
+date:   2018-01-24 14:39:18 +0000
 categories: Testeando
 ---
 
